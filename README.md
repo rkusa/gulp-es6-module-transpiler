@@ -1,3 +1,6 @@
+**[DEPRECATED]** `rkusa/gulp-es6-module-transpiler` has been merged into [ryanseddon/gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler)
+
+
 # gulp-es6-module-transpiler
 
 [Gulp](https://github.com/gulpjs/gulp) plugin for the [ES6 Module Transpiler](https://github.com/esnext/es6-module-transpiler)
